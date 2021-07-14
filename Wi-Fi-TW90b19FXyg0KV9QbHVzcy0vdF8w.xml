@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+	<name>TW90b19FXyg0KV9QbHVzcy0vdF8w</name>
+	<SSIDConfig>
+		<SSID>
+			<hex>5457393062313946587967304B5639516248567A6379307664463877</hex>
+			<name>TW90b19FXyg0KV9QbHVzcy0vdF8w</name>
+		</SSID>
+	</SSIDConfig>
+	<connectionType>ESS</connectionType>
+	<connectionMode>auto</connectionMode>
+	<MSM>
+		<security>
+			<authEncryption>
+				<authentication>open</authentication>
+				<encryption>none</encryption>
+				<useOneX>false</useOneX>
+			</authEncryption>
+		</security>
+	</MSM>
+	<MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3">
+		<enableRandomization>false</enableRandomization>
+		<randomizationSeed>561604926</randomizationSeed>
+	</MacRandomization>
+</WLANProfile>
